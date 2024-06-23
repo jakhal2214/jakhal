@@ -1,1 +1,1 @@
-from browsers.chrome.chrome import *
+from browsers.firefox.firefox import *
